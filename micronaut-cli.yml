@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: dev.webbe
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, cache-caffeine, control-panel, flyway, graalvm, gradle, http-client, http-session, java, java-application, jdbc-hikari, junit, log4j2, lombok, micronaut-aot, micronaut-build, netty-server, openapi, postgres, readme, serialization-jackson, shade, testcontainers, validation, yaml, yaml-build]
